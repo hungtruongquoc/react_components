@@ -23,6 +23,7 @@
     "react": "15.x"
   },
   "devDependencies": {
+    "expect": "^1.20.2",
     "nwb": "0.16.x",
     "react": "^15.5.4",
     "react-dom": "^15.5.4"
